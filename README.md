@@ -1,4 +1,4 @@
 Utilities
 =========
 
-Short script to do useful things
+Short scripts to do useful things
